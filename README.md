@@ -1,4 +1,4 @@
-gimp-android-xdpi
+Meu gimp-android-xdpi
 =================
 
 Gimp plugin to export images or icons for any android density : 
